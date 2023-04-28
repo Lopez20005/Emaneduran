@@ -21,7 +21,7 @@ int main() {
     for (float nota : notas) {
         cout << nota << " ";
     }
-    float sum = 0;
+    float sum ;
     for (float nota : notas) {
         sum += nota;
     }
